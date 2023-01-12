@@ -3,3 +3,4 @@ Commit at 2023-01-03T12:01:59: Refactor core logic for better performance
 Commit at 2023-01-04T18:54:46: Refactor training loop
 Commit at 2023-01-04T17:30:10: Clean up code and remove unused imports
 Commit at 2023-01-05T13:36:13: Refactor core logic for better performance
+Commit at 2023-01-12T18:58:46: Drafting core components
