@@ -5,3 +5,4 @@ Commit at 2023-01-04T17:30:10: Clean up code and remove unused imports
 Commit at 2023-01-05T13:36:13: Refactor core logic for better performance
 Commit at 2023-01-12T18:58:46: Drafting core components
 Commit at 2023-01-12T12:30:33: Add visualization tools
+Commit at 2023-01-16T12:57:28: Fix edge case in sensor fusion
