@@ -42,3 +42,4 @@ Commit at 2023-03-22T18:35:26: Fix edge case in sensor fusion
 Commit at 2023-03-23T09:41:10: Add unit tests for new features
 Commit at 2023-03-23T18:33:39: Update documentation and examples
 Commit at 2023-03-24T18:34:12: Implement new optimization algorithm
+Commit at 2023-03-27T18:23:20: Update README with new benchmarks
