@@ -67,3 +67,4 @@ Commit at 2023-05-10T16:03:05: Optimize memory usage
 Commit at 2023-05-12T11:07:38: Fix minor bug in data processing
 Commit at 2023-05-15T10:44:04: Improve error handling
 Commit at 2023-05-16T16:23:19: Initial research on model architecture
+Commit at 2023-05-17T18:26:54: Drafting core components
