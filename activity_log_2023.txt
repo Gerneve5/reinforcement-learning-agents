@@ -78,3 +78,4 @@ Commit at 2023-05-31T13:58:48: Fix minor bug in data processing
 Commit at 2023-05-31T14:10:24: Fix edge case in sensor fusion
 Commit at 2023-06-01T18:55:58: Refactor training loop
 Commit at 2023-06-02T13:01:22: Clean up code and remove unused imports
+Commit at 2023-06-05T15:33:45: Optimize memory usage
