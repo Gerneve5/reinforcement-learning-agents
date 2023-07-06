@@ -93,3 +93,4 @@ Commit at 2023-06-28T14:38:52: Add support for new model architectures
 Commit at 2023-06-28T12:55:09: Update dependencies
 Commit at 2023-06-29T15:25:11: Refactor training loop
 Commit at 2023-07-04T14:12:36: Update README with new benchmarks
+Commit at 2023-07-06T17:34:51: Initial research on model architecture
