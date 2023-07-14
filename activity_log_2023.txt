@@ -97,3 +97,4 @@ Commit at 2023-07-06T17:34:51: Initial research on model architecture
 Commit at 2023-07-07T15:33:29: Add support for new model architectures
 Commit at 2023-07-10T15:26:41: Improve error handling
 Commit at 2023-07-11T15:50:47: Update documentation and examples
+Commit at 2023-07-14T09:37:36: Fix edge case in sensor fusion
