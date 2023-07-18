@@ -100,3 +100,4 @@ Commit at 2023-07-11T15:50:47: Update documentation and examples
 Commit at 2023-07-14T09:37:36: Fix edge case in sensor fusion
 Commit at 2023-07-14T17:02:49: Update README with new benchmarks
 Commit at 2023-07-17T17:07:05: Add support for new model architectures
+Commit at 2023-07-18T15:17:24: Update documentation and examples
