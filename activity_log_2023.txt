@@ -103,3 +103,4 @@ Commit at 2023-07-17T17:07:05: Add support for new model architectures
 Commit at 2023-07-18T15:17:24: Update documentation and examples
 Commit at 2023-07-19T14:02:48: Add support for new model architectures
 Commit at 2023-07-19T18:28:33: Improve error handling
+Commit at 2023-07-20T15:49:25: Setting up development environment
