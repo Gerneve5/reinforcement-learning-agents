@@ -131,3 +131,4 @@ Commit at 2023-09-13T12:44:32: Add unit tests for new features
 Commit at 2023-09-14T12:34:57: Add unit tests for new features
 Commit at 2023-09-18T10:19:26: Update documentation and examples
 Commit at 2023-09-20T14:55:46: Refactor training loop
+Commit at 2023-09-21T11:35:12: Drafting core components
