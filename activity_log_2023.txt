@@ -134,3 +134,4 @@ Commit at 2023-09-20T14:55:46: Refactor training loop
 Commit at 2023-09-21T11:35:12: Drafting core components
 Commit at 2023-09-22T17:00:23: Drafting core components
 Commit at 2023-09-25T10:39:35: Fix minor bug in data processing
+Commit at 2023-09-26T13:30:46: Add support for new model architectures
