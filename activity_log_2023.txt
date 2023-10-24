@@ -154,3 +154,4 @@ Commit at 2023-10-19T18:38:25: Setting up development environment
 Commit at 2023-10-20T12:32:49: Add unit tests for new features
 Commit at 2023-10-23T09:43:28: Add unit tests for new features
 Commit at 2023-10-23T15:51:09: Add support for new model architectures
+Commit at 2023-10-24T17:26:40: Update README with new benchmarks
