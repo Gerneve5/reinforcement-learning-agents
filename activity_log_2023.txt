@@ -192,3 +192,4 @@ Commit at 2023-12-22T17:22:56: Implement new optimization algorithm
 Commit at 2023-12-26T10:31:29: Update dependencies
 Commit at 2023-12-26T17:41:55: Initial research on model architecture
 Commit at 2023-12-28T18:43:10: Refactor training loop
+Commit at 2023-12-29T18:27:03: Update README with new benchmarks
