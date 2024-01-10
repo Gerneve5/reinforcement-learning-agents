@@ -8,3 +8,4 @@ Commit at 2024-01-08T10:43:49: Fix edge case in sensor fusion
 Commit at 2024-01-08T09:34:23: Optimize memory usage
 Commit at 2024-01-09T17:18:46: Add unit tests for new features
 Commit at 2024-01-09T13:35:13: Fix edge case in sensor fusion
+Commit at 2024-01-10T12:57:08: Improve error handling
