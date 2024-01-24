@@ -20,3 +20,4 @@ Commit at 2024-01-18T17:42:27: Update hyperparameter tuning scripts
 Commit at 2024-01-22T10:55:59: Add visualization tools
 Commit at 2024-01-22T13:11:33: Improve model convergence
 Commit at 2024-01-23T13:08:41: Fix minor bug in data processing
+Commit at 2024-01-24T14:01:43: Add visualization tools
