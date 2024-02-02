@@ -29,3 +29,4 @@ Commit at 2024-01-29T11:07:15: Add unit tests for new features
 Commit at 2024-01-30T09:46:32: Add support for new model architectures
 Commit at 2024-01-31T13:17:29: Enhance logging and monitoring
 Commit at 2024-02-01T09:20:19: Improve error handling
+Commit at 2024-02-02T11:47:28: Update README with new benchmarks
