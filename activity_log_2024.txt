@@ -60,3 +60,4 @@ Commit at 2024-03-08T14:52:59: Implement new optimization algorithm
 Commit at 2024-03-10T17:46:37: Fix edge case in sensor fusion
 Commit at 2024-03-11T10:20:13: Add support for new model architectures
 Commit at 2024-03-12T12:52:26: Improve model convergence
+Commit at 2024-03-12T12:17:40: Update README with new benchmarks
