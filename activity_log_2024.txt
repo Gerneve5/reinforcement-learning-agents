@@ -66,3 +66,4 @@ Commit at 2024-03-13T18:44:55: Add support for new model architectures
 Commit at 2024-03-14T17:35:02: Update README with new benchmarks
 Commit at 2024-03-17T10:03:41: Update dependencies
 Commit at 2024-03-18T11:24:42: Update documentation and examples
+Commit at 2024-03-19T13:25:36: Add visualization tools
