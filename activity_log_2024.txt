@@ -72,3 +72,4 @@ Commit at 2024-03-21T16:04:55: Optimize memory usage
 Commit at 2024-03-21T12:13:50: Update dependencies
 Commit at 2024-03-22T09:40:23: Improve error handling
 Commit at 2024-03-22T11:27:32: Optimize memory usage
+Commit at 2024-03-25T10:49:35: Add support for mixed precision training
