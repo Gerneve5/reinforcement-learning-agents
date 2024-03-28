@@ -77,3 +77,4 @@ Commit at 2024-03-26T10:25:03: Add support for mixed precision training
 Commit at 2024-03-27T09:29:48: Fix minor bug in data processing
 Commit at 2024-03-28T12:58:46: Add unit tests for new features
 Commit at 2024-03-28T12:03:27: Add unit tests for new features
+Commit at 2024-03-28T18:38:31: Fix edge case in sensor fusion
