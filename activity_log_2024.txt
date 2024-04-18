@@ -96,3 +96,4 @@ Commit at 2024-04-15T16:11:22: Update README with new benchmarks
 Commit at 2024-04-16T18:25:43: Fix minor bug in data processing
 Commit at 2024-04-17T18:48:00: Update README with new benchmarks
 Commit at 2024-04-17T13:45:06: Fix minor bug in data processing
+Commit at 2024-04-18T12:35:39: Refactor training loop
