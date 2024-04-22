@@ -101,3 +101,4 @@ Commit at 2024-04-19T11:02:38: Add unit tests for new features
 Commit at 2024-04-19T11:44:56: Update hyperparameter tuning scripts
 Commit at 2024-04-20T15:14:42: Update hyperparameter tuning scripts
 Commit at 2024-04-22T18:51:15: Implement new optimization algorithm
+Commit at 2024-04-22T17:46:59: Add support for mixed precision training
