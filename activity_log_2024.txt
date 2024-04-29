@@ -107,3 +107,4 @@ Commit at 2024-04-24T18:54:44: Refactor training loop
 Commit at 2024-04-26T17:18:20: Update README with new benchmarks
 Commit at 2024-04-26T18:51:43: Add support for mixed precision training
 Commit at 2024-04-29T17:34:56: Update documentation and examples
+Commit at 2024-04-29T10:19:56: Optimize memory usage
