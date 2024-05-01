@@ -111,3 +111,4 @@ Commit at 2024-04-29T10:19:56: Optimize memory usage
 Commit at 2024-04-30T13:40:17: Update dependencies
 Commit at 2024-04-30T11:05:14: Update hyperparameter tuning scripts
 Commit at 2024-04-30T14:21:31: Refactor training loop
+Commit at 2024-05-01T10:04:19: Optimize memory usage
