@@ -131,3 +131,4 @@ Commit at 2024-05-23T11:26:56: Update README with new benchmarks
 Commit at 2024-05-24T18:58:36: Fix edge case in sensor fusion
 Commit at 2024-05-24T17:15:12: Update hyperparameter tuning scripts
 Commit at 2024-05-27T10:18:47: Refactor training loop
+Commit at 2024-05-27T10:17:21: Update hyperparameter tuning scripts
