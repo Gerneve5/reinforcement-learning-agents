@@ -134,3 +134,4 @@ Commit at 2024-05-27T10:18:47: Refactor training loop
 Commit at 2024-05-27T10:17:21: Update hyperparameter tuning scripts
 Commit at 2024-05-28T14:52:59: Improve error handling
 Commit at 2024-05-29T15:06:30: Refactor training loop
+Commit at 2024-05-30T18:00:50: Update README with new benchmarks
