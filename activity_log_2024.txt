@@ -144,3 +144,4 @@ Commit at 2024-06-04T15:00:01: Fix minor bug in data processing
 Commit at 2024-06-04T13:47:10: Clean up code and remove unused imports
 Commit at 2024-06-05T14:20:09: Clean up code and remove unused imports
 Commit at 2024-06-05T09:40:49: Update hyperparameter tuning scripts
+Commit at 2024-06-06T11:34:54: Update dependencies
