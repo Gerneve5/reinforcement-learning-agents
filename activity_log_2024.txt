@@ -182,3 +182,4 @@ Commit at 2024-07-12T18:25:16: Add support for new model architectures
 Commit at 2024-07-16T10:38:16: Fix edge case in sensor fusion
 Commit at 2024-07-17T09:25:07: Add support for mixed precision training
 Commit at 2024-07-17T16:25:50: Add support for new model architectures
+Commit at 2024-07-18T10:24:03: Update README with new benchmarks
