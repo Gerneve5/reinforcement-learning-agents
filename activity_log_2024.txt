@@ -193,3 +193,4 @@ Commit at 2024-07-29T12:16:04: Add unit tests for new features
 Commit at 2024-08-01T12:01:31: Improve model convergence
 Commit at 2024-08-01T15:42:29: Add unit tests for new features
 Commit at 2024-08-05T16:03:57: Improve error handling
+Commit at 2024-08-06T09:18:08: Optimize memory usage
