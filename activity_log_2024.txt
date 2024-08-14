@@ -198,3 +198,4 @@ Commit at 2024-08-07T15:56:41: Improve model convergence
 Commit at 2024-08-08T12:17:26: Update documentation and examples
 Commit at 2024-08-08T09:03:16: Update dependencies
 Commit at 2024-08-13T09:35:48: Fix edge case in sensor fusion
+Commit at 2024-08-14T17:53:17: Add support for mixed precision training
