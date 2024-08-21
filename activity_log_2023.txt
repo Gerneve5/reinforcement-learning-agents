@@ -234,3 +234,4 @@ Commit at 2024-04-03T14:46:50: Initial research on model architecture
 Commit at 2024-05-12T12:38:06: Add visualization tools
 Commit at 2024-06-19T12:44:12: Fix minor bug in data processing
 Commit at 2024-08-15T12:51:59: Update documentation and examples
+Commit at 2024-08-21T17:25:45: Setting up development environment
