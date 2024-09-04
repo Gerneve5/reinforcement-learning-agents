@@ -210,3 +210,4 @@ Commit at 2024-08-26T17:28:01: Add unit tests for new features
 Commit at 2024-08-28T11:02:59: Update README with new benchmarks
 Commit at 2024-08-30T09:57:00: Update documentation and examples
 Commit at 2024-09-02T11:25:41: Refactor core logic for better performance
+Commit at 2024-09-04T14:34:20: Refactor core logic for better performance
