@@ -232,3 +232,4 @@ Commit at 2024-09-20T18:13:21: Fix minor bug in data processing
 Commit at 2024-09-23T11:29:23: Improve model convergence
 Commit at 2024-09-23T10:36:47: Refactor training loop
 Commit at 2024-09-24T13:02:25: Clean up code and remove unused imports
+Commit at 2024-09-26T13:42:07: Fix edge case in sensor fusion
