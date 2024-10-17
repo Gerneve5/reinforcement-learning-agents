@@ -253,3 +253,4 @@ Commit at 2024-10-14T18:34:13: Add visualization tools
 Commit at 2024-10-15T13:36:22: Update dependencies
 Commit at 2024-10-16T12:11:05: Refactor training loop
 Commit at 2024-10-16T16:57:39: Add support for new model architectures
+Commit at 2024-10-17T17:54:56: Add visualization tools
