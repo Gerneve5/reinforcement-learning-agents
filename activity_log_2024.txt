@@ -258,3 +258,4 @@ Commit at 2024-10-17T11:07:27: Add unit tests for new features
 Commit at 2024-10-18T16:51:40: Update hyperparameter tuning scripts
 Commit at 2024-10-23T15:51:24: Refactor training loop
 Commit at 2024-10-24T14:43:07: Improve error handling
+Commit at 2024-10-25T18:35:54: Update README with new benchmarks
