@@ -3,3 +3,4 @@ Commit at 2024-11-06T17:16:46: Update dependencies
 Commit at 2024-11-06T17:38:55: Refactor core logic for better performance
 Commit at 2024-11-06T12:06:04: Add visualization tools
 Commit at 2024-11-07T10:29:47: Fix edge case in sensor fusion
+Commit at 2024-11-08T15:55:08: Update README with new benchmarks
