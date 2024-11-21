@@ -15,3 +15,4 @@ Commit at 2024-11-19T10:44:14: Clean up code and remove unused imports
 Commit at 2024-11-20T18:12:30: Add unit tests for new features
 Commit at 2024-11-20T17:55:41: Improve error handling
 Commit at 2024-11-21T11:24:20: Refactor training loop
+Commit at 2024-11-21T09:39:58: Update README with new benchmarks
