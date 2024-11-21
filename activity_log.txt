@@ -14,3 +14,4 @@ Commit at 2024-11-18T15:39:59: Refactor core logic for better performance
 Commit at 2024-11-19T10:44:14: Clean up code and remove unused imports
 Commit at 2024-11-20T18:12:30: Add unit tests for new features
 Commit at 2024-11-20T17:55:41: Improve error handling
+Commit at 2024-11-21T11:24:20: Refactor training loop
