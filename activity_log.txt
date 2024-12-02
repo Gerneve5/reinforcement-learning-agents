@@ -21,3 +21,4 @@ Commit at 2024-11-27T10:04:09: Update dependencies
 Commit at 2024-11-28T09:08:01: Fix minor bug in data processing
 Commit at 2024-11-29T18:59:55: Refactor training loop
 Commit at 2024-11-29T18:41:49: Refactor core logic for better performance
+Commit at 2024-12-02T15:13:06: Add visualization tools
