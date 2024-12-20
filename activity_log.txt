@@ -43,3 +43,4 @@ Commit at 2024-12-14T09:49:51: Add unit tests for new features
 Commit at 2024-12-17T13:09:07: Fix minor bug in data processing
 Commit at 2024-12-17T16:44:41: Refactor training loop
 Commit at 2024-12-18T17:14:28: Add support for new model architectures
+Commit at 2024-12-20T12:36:54: Refactor training loop
