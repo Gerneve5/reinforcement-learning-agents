@@ -84,3 +84,4 @@ Commit at 2025-01-21T10:11:21: Enhance logging and monitoring
 Commit at 2025-01-22T09:33:23: Add unit tests for new features
 Commit at 2025-01-22T18:40:45: Update documentation and examples
 Commit at 2025-01-23T12:00:10: Clean up code and remove unused imports
+Commit at 2025-01-23T13:06:22: Update README with new benchmarks
