@@ -86,3 +86,4 @@ Commit at 2025-01-22T18:40:45: Update documentation and examples
 Commit at 2025-01-23T12:00:10: Clean up code and remove unused imports
 Commit at 2025-01-23T13:06:22: Update README with new benchmarks
 Commit at 2025-01-24T18:42:54: Refactor training loop
+Commit at 2025-01-24T09:36:09: Update dependencies
