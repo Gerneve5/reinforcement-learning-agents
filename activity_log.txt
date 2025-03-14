@@ -135,3 +135,4 @@ Commit at 2025-03-11T10:38:53: Refactor core logic for better performance
 Commit at 2025-03-12T17:54:48: Update documentation and examples
 Commit at 2025-03-13T09:17:36: Update dependencies
 Commit at 2025-03-13T17:01:27: Refactor core logic for better performance
+Commit at 2025-03-14T18:27:27: Add support for new model architectures
