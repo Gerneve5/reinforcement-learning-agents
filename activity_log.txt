@@ -141,3 +141,4 @@ Commit at 2025-03-19T10:45:18: Fix minor bug in data processing
 Commit at 2025-03-19T17:42:26: Improve error handling
 Commit at 2025-03-21T13:44:24: Update documentation and examples
 Commit at 2025-03-21T10:52:13: Add support for new model architectures
+Commit at 2025-03-24T10:37:24: Fix edge case in sensor fusion
