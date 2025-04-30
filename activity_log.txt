@@ -176,3 +176,4 @@ Commit at 2025-04-25T18:43:39: Refactor core logic for better performance
 Commit at 2025-04-25T12:08:27: Update documentation and examples
 Commit at 2025-04-28T16:58:22: Update documentation and examples
 Commit at 2025-04-30T11:33:16: Clean up code and remove unused imports
+Commit at 2025-04-30T15:29:39: Add support for new model architectures
