@@ -190,3 +190,4 @@ Commit at 2025-05-14T11:53:26: Update dependencies
 Commit at 2025-05-15T14:30:28: Fix minor bug in data processing
 Commit at 2025-05-16T11:40:18: Implement new optimization algorithm
 Commit at 2025-05-16T10:05:38: Update documentation and examples
+Commit at 2025-05-18T18:25:43: Fix edge case in sensor fusion
