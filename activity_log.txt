@@ -216,3 +216,4 @@ Commit at 2025-06-02T10:56:14: Clean up code and remove unused imports
 Commit at 2025-06-03T11:14:31: Fix minor bug in data processing
 Commit at 2025-06-04T09:28:49: Add visualization tools
 Commit at 2025-06-04T10:20:37: Refactor core logic for better performance
+Commit at 2025-06-05T12:56:41: Improve error handling
