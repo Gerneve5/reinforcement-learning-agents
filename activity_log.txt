@@ -236,3 +236,4 @@ Commit at 2025-06-18T11:08:56: Add visualization tools
 Commit at 2025-06-19T14:39:46: Add visualization tools
 Commit at 2025-06-19T18:30:36: Update documentation and examples
 Commit at 2025-06-20T16:11:38: Refactor training loop
+Commit at 2025-06-23T18:36:50: Update README with new benchmarks
