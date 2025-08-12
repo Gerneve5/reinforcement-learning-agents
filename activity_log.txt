@@ -290,3 +290,4 @@ Commit at 2025-08-08T11:08:01: Add visualization tools
 Commit at 2025-08-11T11:04:48: Refactor training loop
 Commit at 2025-08-11T09:29:05: Add visualization tools
 Commit at 2025-08-11T11:41:48: Fix minor bug in data processing
+Commit at 2025-08-12T17:26:28: Add unit tests for new features
