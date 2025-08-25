@@ -307,3 +307,4 @@ Commit at 2025-08-20T12:02:36: Enhance logging and monitoring
 Commit at 2025-08-22T12:00:12: Add support for new model architectures
 Commit at 2025-08-22T10:41:46: Add unit tests for new features
 Commit at 2025-08-25T13:19:53: Update README with new benchmarks
+Commit at 2025-08-25T18:53:28: Update documentation and examples
