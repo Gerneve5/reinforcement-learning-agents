@@ -309,3 +309,4 @@ Commit at 2025-08-22T10:41:46: Add unit tests for new features
 Commit at 2025-08-25T13:19:53: Update README with new benchmarks
 Commit at 2025-08-25T18:53:28: Update documentation and examples
 Commit at 2025-08-26T09:07:46: Refactor core logic for better performance
+Commit at 2025-08-27T17:11:01: Refactor training loop
