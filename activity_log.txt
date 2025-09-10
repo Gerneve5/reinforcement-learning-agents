@@ -324,3 +324,4 @@ Commit at 2025-09-06T12:55:57: Refactor training loop
 Commit at 2025-09-08T11:52:25: Fix minor bug in data processing
 Commit at 2025-09-08T16:41:05: Update documentation and examples
 Commit at 2025-09-09T11:54:43: Refactor core logic for better performance
+Commit at 2025-09-10T18:51:56: Update README with new benchmarks
